@@ -1,1 +1,1 @@
-# coffee_machine
+# Simple beginner emulation of a coffee machine software
